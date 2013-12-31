@@ -1,10 +1,10 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
 
-name: "Yongle Zhang"
+name: "Yang Liu"
 
-author: "Yongle Zhang"
-atom-baseurl: "http://zagol.github.io"
+author: "Yang Liu"
+atom-baseurl: "http://clairely.github.io"
 disqus: "zagol"
 
 
